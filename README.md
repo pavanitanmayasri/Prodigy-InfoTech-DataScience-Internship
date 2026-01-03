@@ -6,25 +6,53 @@ Welcome to my submission for Task 1 of the Data Science Internship at `Prodigy I
 
 ## Dataset
 
-The dataset used for this task is <a href="https://github.com/kindo-tk/PRODIGY_DS_01/blob/main/worldpopulationdata.csv">world_population_dataset</a>. This dataset contains records of population from the year 2001 to 2022. 
+Task 1: Exploratory Data Analysis (EDA)
 
-## Tools and Libraries used
-- Jupyter notebook
-- Pandas
-- Numpy
-- Matplotlip & Seaborn for visualization
+Welcome to my submission for Task 1 of the Data Science Internship at Prodigy Infotech.
+In this task, I performed Exploratory Data Analysis (EDA) on a population dataset and created visualizations to understand the distribution of population data across years.
 
+📁 Dataset
 
+The dataset used for this task is World Population Dataset, sourced from the World Bank.
 
-## Exploratory Data Analysis (EDA)
+Indicator: Total Population
 
-During the EDA process, I performed the following steps:
+Years Covered: 2001 – 2022
 
-1. **Data Cleaning**: Checked for missing values, duplicates, and outliers in the dataset and handled them accordingly.
+Dataset Link:
+https://github.com/Prodigy-InfoTech/data-science-datasets/blob/main/Task%201/Metadata_Indicator_API_SP.POP.TOTL_DS2_en_csv_v2_38144.csv
 
-2. **Visualization**: Created a bar chart, stacked chart to visualize the distribution of a categorical or continuous variable. 
+🛠️ Tools and Libraries Used
 
+Jupyter Notebook – For data analysis and visualization
 
+Pandas – Data manipulation and analysis
+
+NumPy – Numerical operations
+
+Matplotlib – Data visualization
+
+Seaborn – Statistical data visualization
+
+🔍 Exploratory Data Analysis (EDA)
+
+During the EDA process, the following steps were performed:
+
+1️⃣ Data Cleaning
+
+Checked for missing values and handled them appropriately
+
+Verified dataset structure and column consistency
+
+Removed unnecessary metadata rows
+
+2️⃣ Data Visualization
+
+Created bar charts to visualize population distribution
+
+Created stacked charts to compare population trends across years
+
+Analyzed trends and variations in population growth
 
 ## Conclusion
 
